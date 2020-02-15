@@ -1,0 +1,11 @@
+C:\Users\kev\source\repos\game\game\bin\Debug\netcoreapp3.1\game.exe
+C:\Users\kev\source\repos\game\game\bin\Debug\netcoreapp3.1\game.deps.json
+C:\Users\kev\source\repos\game\game\bin\Debug\netcoreapp3.1\game.runtimeconfig.json
+C:\Users\kev\source\repos\game\game\bin\Debug\netcoreapp3.1\game.runtimeconfig.dev.json
+C:\Users\kev\source\repos\game\game\bin\Debug\netcoreapp3.1\game.dll
+C:\Users\kev\source\repos\game\game\bin\Debug\netcoreapp3.1\game.pdb
+C:\Users\kev\source\repos\game\game\obj\Debug\netcoreapp3.1\game.csprojAssemblyReference.cache
+C:\Users\kev\source\repos\game\game\obj\Debug\netcoreapp3.1\game.AssemblyInfoInputs.cache
+C:\Users\kev\source\repos\game\game\obj\Debug\netcoreapp3.1\game.AssemblyInfo.cs
+C:\Users\kev\source\repos\game\game\obj\Debug\netcoreapp3.1\game.dll
+C:\Users\kev\source\repos\game\game\obj\Debug\netcoreapp3.1\game.pdb
